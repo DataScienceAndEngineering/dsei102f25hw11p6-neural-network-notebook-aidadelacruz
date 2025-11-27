@@ -107,3 +107,40 @@ Implementation tips
 By following these steps you will reproduce a classic capacity
 experiment and gain intuition about how the size of a network's hidden
 layer affects its ability to fit data and generalize to new examples.
+
+Downloading the data_flower folder
+-----------------------------------
+
+The `data_flower` folder contains the dataset files (`x_train.csv`,
+`y_train.csv`, `x_test.csv`, `y_test.csv`) needed for this assignment.
+Here are several ways to download the entire folder:
+
+### Option 1: Clone the entire repository (Recommended)
+
+The simplest way to get all files including the `data_flower` folder is
+to clone the entire repository. You can find the repository URL by
+clicking the green **Code** button on the repository's main page:
+
+```bash
+git clone https://github.com/your-username/your-repository.git
+```
+
+After cloning, the `data_flower` folder will be available in your local
+copy of the repository.
+
+### Option 2: Download as ZIP from GitHub
+
+1.  Go to the repository's main page on GitHub
+2.  Click the green **Code** button
+3.  Select **Download ZIP**
+4.  Extract the ZIP file on your computer
+5.  The `data_flower` folder will be inside the extracted directory
+
+### Option 3: Download individual files
+
+If you only need the data files, you can download each file individually:
+
+1.  Navigate to the `data_flower` folder in the repository
+2.  Click on each file (`x_train.csv`, `y_train.csv`, `x_test.csv`, `y_test.csv`)
+3.  Click the **Raw** button to view the raw file
+4.  Right-click and select **Save As** to download the file
